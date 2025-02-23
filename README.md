@@ -1,1 +1,1 @@
-# Sorting-Visualizer---Java
+# Sorting-Visualizer-Java
